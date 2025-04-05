@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -70,3 +69,24 @@
             <ul>
                 <li>Communication</li>
                 <li>Problem-Solving</li>
+                <li>Java Programming</li>
+                <li>Creative Thinking</li>
+                <li>Debugging</li>
+                <li>Digital Portfolio</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Projects</h2>
+            <ul>
+                <li>Coming Soon...</li>
+            </ul>
+        </div>
+
+        <div class="resume">
+            <button>Download CV</button>
+        </div>
+    </div>
+
+</body>
+</html>
